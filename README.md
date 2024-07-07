@@ -29,7 +29,6 @@ I'm a Full Stack Developer based in London, UK, with a passion for crafting seam
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freeman-md&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Get in Touch
-## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freeman-madudili-9864101a2/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@freemanmadudili.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white)](https://freemanmadudili.com)
