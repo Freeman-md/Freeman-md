@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 I'm a **Microsoft Certified Azure Developer** and **Full Stack .NET Engineer** based in **London, UK**. I specialize in **cloud-native solutions, scalable architectures, and DevOps automation** using **.NET, C#, JavaScript, and Azure**.  
 
-With **2+ years of hands-on experience**, a **First-Class Honours degree in IT from Middlesex University**, and a track record of delivering **high-performance applications**, I focus on:  
+With **3+ years of hands-on experience**, a **First-Class Honours degree in IT from Middlesex University**, and a track record of delivering **high-performance applications**, I focus on:  
 - **Building scalable cloud & AI-driven solutions**  
 - **Optimizing cloud infrastructure for security & efficiency**  
 - **Enhancing CI/CD pipelines & automation with Github Actions and Azure DevOps**  
