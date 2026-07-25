@@ -1,41 +1,72 @@
-# Hi there, I'm Freeman Madudili 👋  
+# Freeman Madudili
 
-## 🚀 About Me  
-I'm a **Microsoft Certified Azure Developer** and **Full Stack .NET Engineer** based in **London, UK**. I specialize in **cloud-native solutions, scalable architectures, and DevOps automation** using **.NET, C#, JavaScript, and Azure**.  
+**Product-focused software engineer building customer-facing products and reliable operational workflows.**
 
-With **3+ years of hands-on experience**, a **First-Class Honours degree in IT from Middlesex University**, and a track record of delivering **high-performance applications**, I focus on:  
-- **Building scalable cloud & AI-driven solutions**  
-- **Optimizing cloud infrastructure for security & efficiency**  
-- **Enhancing CI/CD pipelines & automation with Github Actions and Azure DevOps**  
-- **Developing robust frontend experiences with modern JavaScript frameworks**  
+I turn complex product and operational problems into software people can use and trust. My work sits across frontend product engineering, grounded AI experiences, backend workflows, and the reliability boundaries between them.
 
-### 🌍 Explore My Work  
-🔗 **Portfolio:** [freemanmadudili.com](https://freemanmadudili.com)  
+Based in London, UK. First-Class BSc in Information Technology and currently completing an MSc in Computer Science.
 
----
+[Portfolio](https://freemanmadudili.com) · [LinkedIn](https://www.linkedin.com/in/freeman-madudili-9864101a2/) · [Email](mailto:hello@freemanmadudili.com)
 
-## 👨‍💻 Tech Stack  
+## What I build
 
-### **Backend & Cloud**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)  
+### Customer-facing products
 
-### **Frontend & UI**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+Interfaces and assistants that help users find information, understand their options, and take the next action. I care about clear product flows, useful feedback, grounded answers, and frontend quality beyond the happy path.
 
-### **DevOps & CI/CD**  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) ![Bicep](https://img.shields.io/badge/Bicep-AF2F92?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+### Reliable operational workflows
 
----
+Systems that connect data, tools, and people without treating a triggered action as success. I design workflows around explicit boundaries, typed outcomes, verification, safe failure handling, and human approval where it matters.
 
-## 📊 GitHub Stats  
+## Selected work
 
-![Freeman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Freeman-md&show_icons=true&theme=radical)  
+### [Self-Healing Backend Operations](https://github.com/Freeman-md/self-healing-backend-ops)
 
-### 🔥 Top Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Freeman-md&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+An agentic recovery system that detects incidents, gathers evidence, selects a bounded recovery action, executes only after safety checks pass, and verifies whether the system actually recovered.
 
----
+`TypeScript` `Node.js` `Docker` `SQLite` `Agentic systems` `Reliability`
 
-## 📫 Let's Connect!  
+### [Internal Ops Automation](https://github.com/Freeman-md/internal-ops-automation)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freeman-madudili-9864101a2/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@freemanmadudili.com)  [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=About.me&logoColor=white)](https://freemanmadudili.com)  
+A Playwright-driven operations system with domain rules, state-machine guards, streamed execution, structured failures, and before-and-after verification. Workflows can be triggered through a REST API, React control panel, or AI intent router.
+
+`TypeScript` `Playwright` `Express` `React` `Vitest` `OpenAI`
+
+### [Freeman Madudili Portfolio](https://github.com/Freeman-md/freemancodz-v4)
+
+A database-backed portfolio with a grounded assistant and durable search-index pipeline. Product content is validated, indexed incrementally, retrieved with context, and used to produce sourced answers through a streaming interface.
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `OpenAI` `RAG`
+
+### [RAG Portfolio Lab](https://github.com/Freeman-md/rag-portfolio-lab)
+
+A focused retrieval lab exploring typed search contracts, PostgreSQL and pgvector retrieval, citations, and the product behaviour needed to make an assistant useful rather than merely conversational.
+
+`Next.js` `TypeScript` `Supabase` `pgvector` `Zod` `AI`
+
+## How I engineer
+
+- Start with the user journey and the outcome the system must produce.
+- Keep interfaces, application logic, workflows, and infrastructure behind clear boundaries.
+- Validate inputs and model failures explicitly instead of hiding them behind generic errors.
+- Verify side effects after execution. A successful API call is not proof that the job is done.
+- Use AI where it improves understanding or coordination, not where deterministic software is safer.
+
+## Core stack
+
+**Product and frontend:** TypeScript, React, Next.js, Vue, Nuxt, Tailwind CSS  
+**Backend and data:** Node.js, Express, PostgreSQL, Supabase, Prisma, Python, REST APIs  
+**AI and workflows:** OpenAI, retrieval-augmented generation, pgvector, tool calling, Playwright  
+**Cloud and delivery:** AWS, Docker, GitHub Actions, Terraform, CI/CD
+
+## Experience snapshot
+
+At Pay4Me / WithRadius, I built frontend product experiences with Vue and Nuxt, including 98 responsive screens delivered in 19 days.
+
+I am currently focused on dependable AI-enabled products, workflow automation, and my MSc research into self-healing backend operations.
+
+## Let’s talk
+
+I am open to software and product engineering opportunities where I can help build clearer customer experiences and more dependable systems.
+
+[freemanmadudili.com](https://freemanmadudili.com) · [hello@freemanmadudili.com](mailto:hello@freemanmadudili.com)
