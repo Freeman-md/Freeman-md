@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" role="img" aria-label="Email PA: Outlook updates flow into Airtable records and a Telegram summary, with a processed-email ledger">
+  <rect width="800" height="600" fill="#10151b"/>
+  <g font-family="Arial, sans-serif">
+    <text x="52" y="66" fill="#96e8c1" font-size="17" letter-spacing="3">WORKFLOW AUTOMATION</text>
+    <text x="52" y="123" fill="#f2f5f4" font-size="46" font-weight="700">Email PA</text>
+    <text x="52" y="160" fill="#b0bcb8" font-size="21">From inbox update to tracked action.</text>
+    <g fill="#19242a" stroke="#344b47" stroke-width="2">
+      <rect x="52" y="197" width="696" height="79" rx="16"/>
+      <rect x="52" y="307" width="696" height="79" rx="16"/>
+      <rect x="52" y="417" width="696" height="79" rx="16"/>
+    </g>
+    <g fill="#96e8c1" font-size="20" font-weight="700"><text x="81" y="246">01</text><text x="81" y="356">02</text><text x="81" y="466">03</text></g>
+    <g fill="#f2f5f4" font-size="26" font-weight="700"><text x="142" y="246">Outlook update</text><text x="142" y="356">Airtable record</text><text x="142" y="466">Telegram summary</text></g>
+    <g stroke="#96e8c1" stroke-width="3" fill="none"><path d="M400 278v25m-7-8 7 8 7-8"/><path d="M400 388v25m-7-8 7 8 7-8"/></g>
+    <circle cx="64" cy="543" r="6" fill="#96e8c1"/>
+    <text x="83" y="550" fill="#b0bcb8" font-size="20">Processed-email ledger tracks completed work.</text>
+  </g>
+</svg>
