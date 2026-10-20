@@ -1,8 +1,8 @@
 # Freeman Madudili
 
-**Software Engineer · Websites, Web Apps & Automation**
+**Software Engineer**
 
-I build clear customer journeys and the workflows behind them.
+I build intuitive customer-facing interfaces and reliable operational workflows.
 
 [Portfolio](https://freemanmadudili.com/) · [Discuss a project](https://contra.com/freeman_madudili_xs81lv56) · [LinkedIn](https://www.linkedin.com/in/freeman-madudili-9864101a2/)
 
@@ -55,5 +55,5 @@ Experience the engineering behind one action.
 
 <sub>JPScents and Debby Art & Prints were built through Novier Labs.</sub>
 
-**Available for client projects:** websites & web apps · workflow automation & integrations.  
+**Available for client projects.**  
 London · Remote · [Let's discuss your project →](https://contra.com/freeman_madudili_xs81lv56)
