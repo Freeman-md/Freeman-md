@@ -1,62 +1,59 @@
 # Freeman Madudili
 
-**Software engineer in London building websites, web apps and workflow automation.**
+**Software Engineer · Websites, Web Apps & Automation**
 
-I design and build websites and web apps that help customers take action, and automate the operational work behind them.
+I build clear customer journeys and the workflows behind them.
 
-[Explore my portfolio](https://freemanmadudili.com/) · [Discuss a project on Contra](https://contra.com/freeman_madudili_xs81lv56) · [Connect on LinkedIn](https://www.linkedin.com/in/freeman-madudili-9864101a2/)
+[Portfolio](https://freemanmadudili.com/) · [Discuss a project](https://contra.com/freeman_madudili_xs81lv56) · [LinkedIn](https://www.linkedin.com/in/freeman-madudili-9864101a2/)
 
-## How I can help
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Websites and web apps
+<a href="https://jpscents.shop/"><img src="./jpscents-cover.jpg" alt="JPScents fragrance storefront" width="420"></a>
 
-Clear, responsive experiences for businesses that need customers to explore an offer, make an enquiry, place an order or complete a task.
+**JPScents**  
+Fragrance discovery → saved order → WhatsApp handoff.
 
-Work can include product discovery, interface design and implementation, catalogues, enquiry and ordering journeys, and the administration tools behind them. Scope is agreed around the actual business process.
+[Live site](https://jpscents.shop/) · [Code](https://github.com/JPScents/JPScents)
 
-### Workflow automation and integrations
+</td>
+<td width="50%" valign="top">
 
-Connect the tools your team already uses and reduce repeated reading, copying, checking and updating.
+<a href="https://www.debbyartprints.com.ng/"><img src="./debbyarts-cover.jpg" alt="Debby Art and Prints gallery and creative services" width="420"></a>
 
-Work can include email-to-record workflows, Airtable or CRM integrations, notifications and operational handoffs. I build in validation, explicit failure handling and human review where it matters. AI is used when the task benefits from it.
+**Debby Art & Prints**  
+Artwork discovery → guided enquiry.
 
-## Selected work
+[Live site](https://www.debbyartprints.com.ng/) · [Code](https://github.com/DebbyArts/debbyarts)
 
-### [JPScents](https://jpscents.shop/)
-A fragrance storefront I built through Novier Labs after investigating a WhatsApp-dependent sales process. Customers discover perfumes, choose a size, save an order and carry its reference into WhatsApp for payment and delivery. Protected administration supports the catalogue, inventory and orders.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[Live website](https://jpscents.shop/) · [Public source](https://github.com/JPScents/JPScents)
+<a href="https://github.com/Freeman-md/email-pa"><img src="./email-pa-flow.svg" alt="Email PA: Outlook updates flow into Airtable records and Telegram summaries, with a processed-email ledger" width="420"></a>
 
-### [Debby Art & Prints](https://www.debbyartprints.com.ng/)
-An artwork gallery and creative-services website I shaped and implemented through Novier Labs. Guided requests gather relevant artwork or service details, save an enquiry and prepare a more useful WhatsApp conversation.
+**Email PA**  
+An independent email-to-tracker workflow.
 
-[Live website](https://www.debbyartprints.com.ng/) · [Public source](https://github.com/DebbyArts/debbyarts)
+[Code](https://github.com/Freeman-md/email-pa)
 
-### [Email PA](https://github.com/Freeman-md/email-pa)
-An independent workflow connecting Outlook updates with an Airtable application tracker and a Telegram summary. A processed-email ledger tracks what has already been handled. The portfolio walkthrough uses fictional examples.
+</td>
+<td width="50%" valign="top">
 
-[Public source](https://github.com/Freeman-md/email-pa)
+<a href="https://freemanmadudili.com/"><img src="./portfolio-cover-4x3.jpg" alt="Beyond the Click interactive portfolio: You saw one click. I see everything behind it." width="420"></a>
 
-### [Beyond the Click](https://freemanmadudili.com/)
-My interactive design and engineering portfolio. Follow one booking through availability, reservation, storage and confirmation recovery, then explore the thinking behind the project work.
+**Beyond the Click**  
+Experience the engineering behind one action.
 
-[Experience the portfolio](https://freemanmadudili.com/)
+[Explore](https://freemanmadudili.com/)
 
-## How I work
+</td>
+</tr>
+</table>
 
-- Understand the current customer journey or operational process before proposing a solution.
-- Agree a focused scope, deliverables and the result the work needs to produce.
-- Build with clear responsibilities, validation and deliberate failure handling.
-- Verify the important behaviour and hand over something the business can use and maintain.
+<sub>JPScents and Debby Art & Prints were built through Novier Labs.</sub>
 
-My experience includes frontend delivery at Pay4Me and software engineering at Novier Labs. Team contributions are identified separately from independent work.
-
-## Technologies
-
-TypeScript, JavaScript, React, Next.js, Vue, Nuxt, Tailwind CSS and Motion; Node.js, Laravel/PHP, PostgreSQL, MySQL, Prisma and Supabase. Tools are chosen to fit the work.
-
-## Have a project in mind?
-
-Tell me what the business does, how the current journey or workflow works, and what needs to improve. We can agree a suitable scope and quote.
-
-[Get in touch through my website](https://freemanmadudili.com/) · [Hire me on Contra](https://contra.com/freeman_madudili_xs81lv56) · [LinkedIn](https://www.linkedin.com/in/freeman-madudili-9864101a2/)
+**Available for client projects:** websites & web apps · workflow automation & integrations.  
+London · Remote · [Let's discuss your project →](https://contra.com/freeman_madudili_xs81lv56)
