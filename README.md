@@ -42,7 +42,7 @@ An independent email-to-tracker workflow.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://freemanmadudili.com/"><img src="./portfolio-cover-4x3.jpg" alt="Beyond the Click interactive portfolio: You saw one click. I see everything behind it." width="420"></a>
+<a href="https://freemanmadudili.com/"><img src="./freemanmadudili-scene-04.jpg" alt="Beyond the Click interactive portfolio: You saw one click. I see everything behind it." width="420"></a>
 
 **Beyond the Click**  
 Experience the engineering behind one action.
